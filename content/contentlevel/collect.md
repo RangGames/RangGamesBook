@@ -14,9 +14,9 @@ description: 호미로 채집 월드에서 잔디, 꽃, 나뭇잎, 모래를 캘
 
 ### 채집터 종류
 
-<figure><img src="../../.gitbook/assets/2025-04-01_20.10.03 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
-3가지의 채집터가 존재하며 채집할 수 있는 종류가 다릅니다
+3가지의 채집터가 존재하며, 채집할 수 있는 종류가 다릅니다
 
 **눈 채집터**  꽃, 나뭇잎
 
@@ -26,7 +26,8 @@ description: 호미로 채집 월드에서 잔디, 꽃, 나뭇잎, 모래를 캘
 
 ### 채집 확률표
 
-<mark style="color:blue;">노말 80%</mark> <mark style="color:purple;">레어 20%</mark> <mark style="color:yellow;">유니크0%</mark> <mark style="color:orange;">레전더리 0%</mark> <mark style="color:red;">매직스톤</mark>\ <mark style="color:red;">0.05%</mark>
+<mark style="color:blue;">노말 80%</mark> <mark style="color:purple;">레어 20%</mark> <mark style="color:yellow;">유니크 0%</mark> <mark style="color:orange;">레전더리 0%</mark> <mark style="color:red;">매직스톤 0.05%</mark>\
+(유니크와 레전더리는 아직 추가되지 않았습니다)
 
 #### 잔디
 
