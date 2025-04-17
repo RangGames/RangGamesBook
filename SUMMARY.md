@@ -14,11 +14,8 @@
 ## 컨텐츠 <a href="#content" id="content"></a>
 
 * [🏝️ 팜](undefined-1/undefined/README.md)
-  * [공양](undefined-1/undefined/undefined.md)
-  * [팜포인트](content/farm/farmpoint.md)
-* [🛡️ RPG](undefined-1/rpg/README.md)
-  * [🐷 몹 정보](undefined-1/rpg/undefined.md)
-  * [🗡️ 무기](undefined-1/rpg/undefined-1.md)
+  * [팜 레벨](content/farm/farmlevel.md)
+  * [팜 포인트](content/farm/farmpoint.md)
 * [🌟 컨텐츠 레벨](undefined-1/undefined-1/README.md)
   * [🌿 채집](undefined-1/undefined-1/undefined.md)
   * [⛏️ 채광](undefined-1/undefined-1/undefined-1.md)
@@ -34,6 +31,9 @@
   * [🚢 무역](undefined-3/undefined.md)
 * [📖 인첸트](undefined-4.md)
 * [🎚️ 매직스톤](undefined-5.md)
+* [🛡️ RPG](rpg/README.md)
+  * [🐷 몹 정보](rpg/mob.md)
+  * [🗡️ 무기](rpg/weapon.md)
 
 ## 이벤트 <a href="#event" id="event"></a>
 
