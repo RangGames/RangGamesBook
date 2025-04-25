@@ -61,3 +61,7 @@ description: 벚꽃신사에서 미니게임을 통해 물고기를 낚을 수 �
 
 계절과 날씨에 따라 잡히는 물고기가 다릅니다
 
+**모든 날씨**
+
+<div align="left"><figure><img src="../../.gitbook/assets/노말.png" alt=""><figcaption><p>노말 - 소라게 / 복어 / 대구 / 대게 / 갈전갱이 / 갈색멍게 / 연어 / 열대어 / 푸른 불가사리</p></figcaption></figure></div>
+
