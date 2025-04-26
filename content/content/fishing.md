@@ -88,13 +88,13 @@
 
 <summary><mark style="background-color:green;"><strong>모든 날씨</strong></mark> - 항상 잡힐 수 있는 물고기</summary>
 
-<div align="left"><figure><img src="../../.gitbook/assets/1 (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/1 (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 <div align="left"><figure><img src="../../.gitbook/assets/2 (3).png" alt=""><figcaption></figcaption></figure></div>
 
-<div align="left"><figure><img src="../../.gitbook/assets/3 (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/3 (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
-<div align="left"><figure><img src="../../.gitbook/assets/4.png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/4 (1).png" alt=""><figcaption></figcaption></figure></div>
 
 </details>
 
