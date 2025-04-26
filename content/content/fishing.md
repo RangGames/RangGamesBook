@@ -1,18 +1,18 @@
 # 🐟 낚시
 
-낚시는 <mark style="background-color:red;">**지정된 낚시터에서만**</mark> 가능합니다.
+낚시는 <mark style="background-color:red;">**낚시터에서만**</mark> 가능합니다.
 
 ***
 
 ### **낚시 미니게임**
 
 1. 낚싯대를 던지고 기다리면 물고기가 미끼를 뭅니다.
-2. 물고기가 걸리면 화면에 낚시 진행 바가 나타납니다.
-3. **WASD 키 중 하나**를 반복해서 눌렀다 떼어, **움직이는 표시를 중앙의 녹색 영역에 유지**시키세요.
-4. 표시가 <mark style="color:red;">**양쪽 끝의 빨간색 영역**</mark>에 닿으면 낚시에 실패합니다.
+2. 물고기가 걸리면 화면에 낚시 바가 나타납니다.
+3. <mark style="background-color:blue;">WASD 키 중 하나</mark>를 반복해서 눌렀다 떼어, <mark style="background-color:blue;">움직이는 표시를 중앙의 녹색 영역에 유지</mark>시키세요.
+4. 표시가 <mark style="color:red;background-color:red;">양쪽 끝의 빨간색 영역</mark>에 닿으면 낚시에 실패합니다.
 5. 성공적으로 녹색 영역에 표시를 유지하면 물고기를 낚아 올립니다.
 
-<div align="left"><figure><img src="../../.gitbook/assets/낚시.png" alt="낚시 미니게임 UI 예시"><figcaption><p>낚시 미니게임 UI 예시 (Fishing Minigame UI Example)</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/낚시.png" alt="낚시 미니게임 UI 예시"><figcaption><p>낚시 미니게임</p></figcaption></figure></div>
 
 ***
 
@@ -20,9 +20,7 @@
 
 낚이는 물고기의 등급은 확률에 따라 결정됩니다.
 
-<div align="left"><figure><img src="../../.gitbook/assets/물고기등급.png" alt="물고기 등급별 출현 확률"><figcaption><p>물고기 등급별 출현 확률</p></figcaption></figure></div>
-
-***
+<div align="left"><figure><img src="../../.gitbook/assets/물고기등급.png" alt="물고기 등급별 출현 확률"><figcaption></figcaption></figure></div>
 
 ### **물고기 크기**
 
@@ -30,16 +28,16 @@
 
 **1. 등급별 기본 크기 범위**
 
-* **노말 (Normal):** 10cm \~ 30cm
-* **레어 (Rare):** 20cm \~ 200cm
-* **유니크 (Unique):** 150cm \~ 400cm
-* **레전더리 (Legendary):** 200cm \~ 1000cm
+* **노말 :** 10cm \~ 30cm
+* **레어 :** 20cm \~ 200cm
+* **유니크 :** 150cm \~ 400cm
+* **레전더리 :** 200cm \~ 1000cm
 
 **2. 크기 보너스**
 
-* **미니게임 성공 보너스:** 미니게임 중 표시를 녹색 칸에 정확히 맞추면 크기 **+20cm \~ 50cm** 증가
-* **미끼 사용 보너스:** `낚시용 지렁이` 미끼를 장착하고 낚시하면 크기 **+5cm \~ 15cm** 증가
-* **바다의 행운 인챈트:**
+* **미니게임 성공 보너스 :** 미니게임 중 표시를 녹색 칸에 정확히 맞추면 크기 <mark style="background-color:blue;">+20cm \~ 50cm</mark> 증가
+* **미끼 사용 보너스 :** 낚시용 지렁이 미끼를 장착하고 낚시하면 크기 <mark style="background-color:blue;">+5cm \~ 15cm</mark> 증가
+* **바다의 행운 인챈트 :**
   * 낚싯대에 부여된 '바다의 행운' 인챈트 레벨에 따라 크기가 추가로 증가합니다.
   * 증가량: `[1과 (2 * 인챈트 레벨) 사이의 랜덤 정수] * 인챈트 레벨` 만큼 cm 증가
   * _예시: 바다의 행운 III (레벨 3) 이라면, 1과 (&#x32;_&#x33;)=6 사이의 랜덤 정수(1, 2, 3, 4, 5, 6 중 하나)를 뽑아 3을 곱한 값만큼 크기가 증가합니다. (최소 +3cm, 최대 +18cm)\*
@@ -50,7 +48,7 @@
 
 물고기를 성공적으로 낚으면 '낚시 경험치'를 얻습니다. 획득량은 물고기의 등급과 크기, 그리고 인챈트에 따라 달라집니다.
 
-**1. 등급 및 크기 기반 경험치** _(결과는 소수점 이하 버림)_
+**1. 등급 및 크기 기반 경험치** _(소수점 이하 버림)_
 
 * **노말:** `[잡은 물고기 크기(cm) / 9]` 만큼 경험치 획득
 * **레어:** `[잡은 물고기 크기(cm) / 8]` 만큼 경험치 획득
@@ -78,9 +76,9 @@
 
 **2. 날씨 발생**
 
-* **비/눈:** 약 **35% 확률**로 발생합니다. (계절에 따라 비 또는 눈으로 나타납니다)
-* **폭풍:** **랜덤**하게 발생합니다.
-* <mark style="color:red;">**폭풍우가 몰아칠 때는 더 큰 물고기가 잡힐 확률이 높아집니다!**</mark>
+* **비/눈:** 약 <mark style="background-color:blue;">35% 확률</mark>로 발생합니다.
+* **폭풍:** <mark style="background-color:blue;">랜덤</mark>하게 발생합니다.
+* <mark style="color:red;background-color:red;">폭풍우가 몰아칠 때는 더 큰 물고기가 잡힐 확률이 높아집니다!</mark>
 
 **3. 날씨별 출현 물고기**
 
