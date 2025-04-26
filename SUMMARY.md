@@ -21,9 +21,9 @@
   * [🌲 벌목](content/content/logging.md)
   * [🐟 낚시](content/content/fishing.md)
   * [🌾 농사](content/content/farming.md)
-  * [🗡️ 사냥](content/content/hunt.md)
   * [🫕 요리](content/content/cooking/README.md)
     * [🚢 무역](content/content/cooking/trade.md)
+  * [🗡️ 사냥](content/content/hunt.md)
 
 ***
 
