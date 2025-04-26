@@ -1,7 +1,3 @@
----
-description: 벚꽃신사에서 미니게임을 통해 물고기를 낚을 수 있습니다.
----
-
 # 🐟 낚시
 
 **낚시는&#x20;**<mark style="background-color:red;">**낚시터에서만**</mark>**&#x20;가능합니다**
