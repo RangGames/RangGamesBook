@@ -13,27 +13,22 @@
 
 ## 컨텐츠 <a href="#content" id="content"></a>
 
-* [🏝️ 팜](undefined-1/undefined/README.md)
-  * [팜 레벨](content/farm/farmlevel.md)
-  * [팜 포인트](content/farm/farmpoint.md)
-* [🌟 컨텐츠 레벨](undefined-1/undefined-1/README.md)
-  * [🌿 채집](undefined-1/undefined-1/undefined.md)
-  * [⛏️ 채광](undefined-1/undefined-1/undefined-1.md)
-  * [🌲 벌목](undefined-1/undefined-1/undefined-2.md)
-  * [🐟 낚시](undefined-1/undefined-1/undefined-3.md)
-  * [🌾 농사](undefined-1/undefined-1/undefined-4.md)
-  * [🗡️ 사냥](undefined-1/undefined-1/undefined-5.md)
+* [🏝️ 팜](content/farm.md)
+* [🌟 컨텐츠](content/content/README.md)
+  * [🌿 채집](content/content/collect.md)
+  * [⛏️ 채광](content/content/mining.md)
+  * [🌲 벌목](content/content/logging.md)
+  * [🐟 낚시](content/content/fishing.md)
+  * [🌾 농사](content/content/farming.md)
+  * [🗡️ 사냥](content/content/hunt.md)
 
 ***
 
-* [💼 직업](undefined-2.md)
 * [🫕 요리](undefined-3/README.md)
   * [🚢 무역](undefined-3/undefined.md)
 * [📖 인첸트](undefined-4.md)
 * [🎚️ 매직스톤](undefined-5.md)
-* [🛡️ RPG](rpg/README.md)
-  * [🐷 몹 정보](rpg/mob.md)
-  * [🗡️ 무기](rpg/weapon.md)
+* [🛡️ RPG](rpg.md)
 
 ## 이벤트 <a href="#event" id="event"></a>
 
