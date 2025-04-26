@@ -1,97 +1,132 @@
-# 🐟 낚시
+# 🐟 낚시 (Fishing)
 
-**낚시는&#x20;**<mark style="background-color:red;">**낚시터에서만**</mark>**&#x20;가능합니다**
+낚시는 **<mark style="background-color:red;">지정된 낚시터(Fishing Zone)에서만</mark>** 가능합니다.
 
+---
 
+### **낚시 미니게임 (Fishing Minigame)**
 
-### **미니게임**
+1.  낚싯대를 던지고 기다리면 물고기가 미끼를 뭅니다.
+2.  물고기가 걸리면 화면에 **낚시 진행 바(Fishing Bar)**가 나타납니다.
+3.  **WASD 키 중 하나**를 반복해서 눌렀다 떼어, **움직이는 표시(Indicator)를 중앙의 <span style="color:green;">녹색 영역</span>에 유지**시키세요.
+4.  표시가 <mark style="color:red;">**양쪽 끝의 빨간색 영역**</mark>에 닿으면 낚시에 실패합니다.
+5.  성공적으로 녹색 영역에 표시를 유지하면 물고기를 낚아 올립니다.
 
-물고기를 찌를 물면 미니게임이 시작됩니다. \
-낚시 바가 뜨면 wasd 중 하나를 눌렀다 떼었다 하며 중앙에 맞추면 성공! <mark style="color:red;">빨간색으로 가면 실패!!</mark>
+<div align="left"><figure><img src="../../.gitbook/assets/낚시.png" alt="낚시 미니게임 UI 예시"><figcaption>낚시 미니게임 UI 예시 (Fishing Minigame UI Example)</figcaption></figure></div>
 
-<div align="left"><figure><img src="../../.gitbook/assets/낚시.png" alt=""><figcaption></figcaption></figure></div>
+---
 
+### **물고기 등급 확률 (Fish Grade Probability)**
 
+낚이는 물고기의 등급(희귀도)은 확률에 따라 결정됩니다.
 
-### **물고기 등급 확률**
+<div align="left"><figure><img src="../../.gitbook/assets/물고기등급.png" alt="물고기 등급별 출현 확률"><figcaption>물고기 등급별 출현 확률 (Probability by Fish Grade)</figcaption></figure></div>
 
-<div align="left"><figure><img src="../../.gitbook/assets/물고기등급.png" alt=""><figcaption></figcaption></figure></div>
+---
 
+### **물고기 크기 (Fish Size)**
 
+잡은 물고기의 크기는 등급에 따라 기본 범위가 정해지며, 특정 조건에 따라 추가 보너스를 받을 수 있습니다.
 
-### **물고기 크기**
+**1. 등급별 기본 크기 범위 (Base Size Range by Grade)**
 
-▫️노말 10\~30cm / 레어 20\~200cm / 유니크 150\~400cm / 레전더리 200\~1000cm\
-▫️초록색 칸에 맞출 시 +20\~50cm \
-▫️낚시용 지렁이 (미끼) 장착 시 +5\~15cm\
-▫️바다의 행운 \[(1\~(2 x 바다의 행운 인첸트 레벨)) x 바다의 행운 인첸트 레벨] 만큼 증가
+*   **노말 (Normal):** 10cm ~ 30cm
+*   **레어 (Rare):** 20cm ~ 200cm
+*   **유니크 (Unique):** 150cm ~ 400cm
+*   **레전더리 (Legendary):** 200cm ~ 1000cm
 
+**2. 크기 보너스 (Size Bonuses)**
 
+*   **미니게임 성공 보너스:** 미니게임 중 표시를 **<span style="color:green;">녹색 칸</span>**에 정확히 맞추면 크기 **+20cm ~ 50cm** 증가 (랜덤)
+*   **미끼 사용 보너스:** `낚시용 지렁이` 미끼를 장착하고 낚시하면 크기 **+5cm ~ 15cm** 증가 (랜덤)
+*   **바다의 행운 인챈트 (Luck of the Sea Enchant):**
+    *   낚싯대에 부여된 '바다의 행운' 인챈트 레벨에 따라 크기가 추가로 증가합니다.
+    *   증가량: `[1과 (2 * 인챈트 레벨) 사이의 랜덤 정수] * 인챈트 레벨` 만큼 cm 증가
+    *   *예시: 바다의 행운 III (레벨 3) 이라면, 1과 (2*3)=6 사이의 랜덤 정수(1, 2, 3, 4, 5, 6 중 하나)를 뽑아 3을 곱한 값만큼 크기가 증가합니다. (최소 +3cm, 최대 +18cm)*
 
-### 획득 **경험치**
+---
 
-▫️노말: \[잡은 물고기 크기/9] 만큼 낚시 경험치 획득\
-▫️레어: \[잡은 물고기 크기/8] 만큼 낚시 경험치 획득\
-▫️유니크: \[잡은 물고기 크기/7] 만큼 낚시 경험치 획득\
-▫️레전더리: \[잡은 물고기 크기] 만큼 낚시 경험치 획득\
-▫️증폭 \[경험치 x (1 + (0.05 x 증폭 인첸트 레벨))] 만큼 낚시 경험치 추가
+### **획득 경험치 (EXP Gain)**
 
+물고기를 성공적으로 낚으면 '낚시 경험치'를 얻습니다. 획득량은 물고기의 등급과 크기, 그리고 인챈트에 따라 달라집니다.
 
+**1. 등급 및 크기 기반 경험치 (Base EXP based on Grade and Size)**
+*(결과는 소수점 이하 버림)*
 
-### **계절 & 날씨**
+*   **노말:** `[잡은 물고기 크기(cm) / 9]` 만큼 경험치 획득
+*   **레어:** `[잡은 물고기 크기(cm) / 8]` 만큼 경험치 획득
+*   **유니크:** `[잡은 물고기 크기(cm) / 7]` 만큼 경험치 획득
+*   **레전더리:** `[잡은 물고기 크기(cm)]` 만큼 경험치 획득 (크기만큼 그대로 획득)
 
-낚시터 계절은 <mark style="background-color:blue;">여름과 겨울</mark>이 있고 날씨는 <mark style="background-color:blue;">맑음, 비, 눈, 폭풍</mark>이 옵니다
+**2. 증폭 인챈트 효과 (Amplification Enchant Effect)**
 
-**0\~6시 / 12\~18시** 여름  ㅣ  **6\~12시 / 18\~24시** 겨울
+*   낚싯대에 부여된 '증폭' 인챈트 레벨에 따라 최종 획득 경험치가 증가합니다.
+*   최종 경험치 = `기본 경험치 * (1 + (0.05 * 증폭 인챈트 레벨))`
+*   *예시: 증폭 II (레벨 2) 이고 기본 경험치가 100이라면, 최종 경험치는 100 * (1 + (0.05 * 2)) = 100 * 1.1 = 110 EXP가 됩니다.*
 
-35% 확률로 눈과 비가 오고, 폭풍은 랜덤으로 옵니다! <mark style="color:red;">(폭풍이 올 때 더 큰 물고기가 잡힙니다)</mark>
+---
 
+### **낚시터 계절 및 날씨 (Fishing Zone Season & Weather)**
 
+낚시터에는 시간대에 따라 <mark style="background-color:blue;">여름과 겨울</mark> 계절이 적용되며, 다양한 날씨(<mark style="background-color:blue;">맑음, 비, 눈, 폭풍</mark>)가 나타납니다. 계절과 날씨는 낚이는 물고기 종류에 영향을 줍니다.
 
-날씨에 따라 잡히는 물고기가 다르게 나옵니다
+**1. 시간대별 계절 (Season by Time of Day - In-Game Time)**
 
-<mark style="background-color:green;">**모든 날씨**</mark>
+*   **00:00 ~ 06:00:** 여름 (Summer)
+*   **06:00 ~ 12:00:** 겨울 (Winter)
+*   **12:00 ~ 18:00:** 여름 (Summer)
+*   **18:00 ~ 24:00:** 겨울 (Winter)
+
+**2. 날씨 발생 (Weather Occurrence)**
+
+*   **비/눈:** 약 **35% 확률**로 발생합니다. (계절에 따라 비 또는 눈으로 나타납니다)
+*   **폭풍:** **랜덤**하게 발생합니다.
+*   <mark style="color:red;">**폭풍우가 몰아칠 때는 더 큰 물고기가 잡힐 확률이 높아집니다!**</mark>
+
+**3. 날씨별 출현 물고기 (Fish by Weather)**
+
+각 날씨 조건에서만 잡을 수 있는 특별한 물고기들이 있습니다. (아래 목록은 모든 날씨 공통 + 해당 날씨 전용 물고기 포함)
+
+<details>
+
+<summary><mark style="background-color:green;"><strong>모든 날씨 (All Weather)</strong></mark> - 항상 잡힐 수 있는 물고기</summary>
 
 <div align="left"><figure><img src="../../.gitbook/assets/1 (1).png" alt=""><figcaption></figcaption></figure></div>
-
 <div align="left"><figure><img src="../../.gitbook/assets/2 (3).png" alt=""><figcaption></figcaption></figure></div>
-
 <div align="left"><figure><img src="../../.gitbook/assets/3 (1).png" alt=""><figcaption></figcaption></figure></div>
-
 <div align="left"><figure><img src="../../.gitbook/assets/4.png" alt=""><figcaption></figcaption></figure></div>
 
+</details>
 
+<details>
 
-<mark style="background-color:yellow;">**맑음**</mark>
+<summary><mark style="background-color:yellow;"><strong>맑음 (Clear)</strong></mark> - 맑은 날에만 추가로 잡히는 물고기</summary>
 
 <div align="left"><figure><img src="../../.gitbook/assets/11.png" alt=""><figcaption></figcaption></figure></div>
-
 <div align="left"><figure><img src="../../.gitbook/assets/22.png" alt=""><figcaption></figcaption></figure></div>
-
 <div align="left"><figure><img src="../../.gitbook/assets/33.png" alt=""><figcaption></figcaption></figure></div>
-
 <div align="left"><figure><img src="../../.gitbook/assets/44.png" alt=""><figcaption></figcaption></figure></div>
 
+</details>
 
+<details>
 
-<mark style="background-color:blue;">**비**</mark>
+<summary><mark style="background-color:blue;"><strong>비 (Rain)</strong></mark> - 비 오는 날에만 추가로 잡히는 물고기</summary>
 
 <figure><img src="../../.gitbook/assets/111.png" alt=""><figcaption></figcaption></figure>
-
 <figure><img src="../../.gitbook/assets/222.png" alt=""><figcaption></figcaption></figure>
-
 <div align="left"><figure><img src="../../.gitbook/assets/333 (1).png" alt=""><figcaption></figcaption></figure></div>
-
 <div align="left"><figure><img src="../../.gitbook/assets/444.png" alt=""><figcaption></figcaption></figure></div>
 
+</details>
 
+<details>
 
-<mark style="background-color:red;">**눈**</mark>
+<summary><mark style="background-color:red;"><strong>눈 (Snow)</strong></mark> - 눈 오는 날(겨울)에만 추가로 잡히는 물고기</summary>
 
 <figure><img src="../../.gitbook/assets/1111.png" alt=""><figcaption></figcaption></figure>
-
 <div align="left"><figure><img src="../../.gitbook/assets/2222.png" alt=""><figcaption></figcaption></figure></div>
-
 <div align="left"><figure><img src="../../.gitbook/assets/3333.png" alt=""><figcaption></figcaption></figure></div>
-
 <div align="left"><figure><img src="../../.gitbook/assets/4444.png" alt=""><figcaption></figcaption></figure></div>
+
+</details>
