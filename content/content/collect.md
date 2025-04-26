@@ -2,9 +2,11 @@
 
 ### **채집월드 지도**
 
-<div align="left"><figure><img src="../../.gitbook/assets/collect_map (1).png" alt=""><figcaption><p>엔더 / 숲 / 지옥 / 사막</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/collect_map (1).png" alt=""><figcaption></figcaption></figure></div>
 
 ### 🌳<mark style="background-color:green;">**숲 월드**</mark>🌳
+
+<div align="left"><figure><img src="../../.gitbook/assets/xx.png" alt=""><figcaption></figcaption></figure></div>
 
 잔디, 꽃을 캘 수 있는 월드
 
@@ -34,6 +36,8 @@
 
 ### 🏜️<mark style="background-color:yellow;">**사막 월드**</mark>🏜️
 
+<div align="left"><figure><img src="../../.gitbook/assets/xxxx.png" alt=""><figcaption></figcaption></figure></div>
+
 모래를 캘 수 있는 월드
 
 **모래**
@@ -51,6 +55,8 @@
 
 <모든 채집활동에서 얻을 수 있는 아이템>\
 복숭아 씨앗, 파인애플 씨앗, 바나나 씨앗, 블루베리 씨앗, 포도 씨앗, 레몬 씨앗, 망고 씨앗, 멜론 씨앗, 오렌지 씨앗, 딸기 씨앗, 토마토 씨앗, 양배추 씨앗, 고추 씨앗, 옥수수 씨앗, 배추 씨앗, 마늘 씨앗, 양파 씨앗, 쌀 씨앗, 브로콜리 씨앗, 고구마 씨앗, 콩 씨앗, 파 씨앗, 순무 씨앗, 아스파라거스 씨앗, 무 씨앗, 산삼 씨앗
+
+
 
 ### 🚧<mark style="background-color:red;">**지옥 & 엔더**</mark>🚧
 

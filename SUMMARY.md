@@ -13,7 +13,7 @@
 ## 컨텐츠 <a href="#content" id="content"></a>
 
 * [🏯 로비](content/lobby.md)
-* [티어](content/undefined.md)
+* [🏆 티어](content/undefined.md)
 * [🏝️ 팜](content/farm.md)
 * [🌟 컨텐츠](content/content/README.md)
   * [🌿 채집](content/content/collect.md)
