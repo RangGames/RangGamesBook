@@ -4,7 +4,7 @@
 
 <div align="left"><figure><img src="../../.gitbook/assets/collect_map (1).png" alt=""><figcaption></figcaption></figure></div>
 
-### 🌳<mark style="background-color:green;">**숲 월드**</mark>🌳
+### <mark style="background-color:green;">**숲 월드**</mark>
 
 <div align="left"><figure><img src="../../.gitbook/assets/xx.png" alt=""><figcaption></figcaption></figure></div>
 
@@ -34,7 +34,7 @@
 
 
 
-### 🏜️<mark style="background-color:yellow;">**사막 월드**</mark>🏜️
+### <mark style="background-color:yellow;">**사막 월드**</mark>
 
 <div align="left"><figure><img src="../../.gitbook/assets/xxxx.png" alt=""><figcaption></figcaption></figure></div>
 
@@ -58,6 +58,6 @@
 
 
 
-### 🚧<mark style="background-color:red;">**지옥 & 엔더**</mark>🚧
+### <mark style="background-color:red;">**지옥 & 엔더**</mark>
 
 <mark style="color:red;">--공사중--</mark>
