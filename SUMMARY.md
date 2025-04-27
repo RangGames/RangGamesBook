@@ -36,6 +36,8 @@
 
 * [⏰ 핫타임](undefined-6/undefined.md)
 
-## Group 1
+## 후원 <a href="#donate" id="donate"></a>
 
-* [Page 1](group-1/page-1.md)
+* [✴️ 등급](donate/grade.md)
+* [🎁 혜택](donate/benefit.md)
+* [📬 문의](donate/inquiry.md)

@@ -67,3 +67,10 @@
 
 <div align="left"><figure><img src="../.gitbook/assets/제목 없음-4.png" alt=""><figcaption></figcaption></figure></div>
 
+* 각 컨텐츠별로 퀘스트가 있고, 리롤을 한번 할 수 있습니다.
+* 보상으로는 5,000랑 / 컨텐츠 경험치 / 매직스톤(1%확률로 보상 지급)이 있습니다.
+
+
+
+
+
