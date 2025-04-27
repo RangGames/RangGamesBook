@@ -35,3 +35,7 @@
 ## 이벤트 <a href="#event" id="event"></a>
 
 * [⏰ 핫타임](undefined-6/undefined.md)
+
+## Group 1
+
+* [Page 1](group-1/page-1.md)
