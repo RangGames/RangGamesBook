@@ -9,6 +9,7 @@
 ## 정보 <a href="#information" id="information"></a>
 
 * [🗃️ 리소스팩](information/resourcepack.md)
+* [📬 문의](information/inquiry.md)
 * [📋 명령어](undefined/undefined.md)
 
 ## 컨텐츠 <a href="#content" id="content"></a>
