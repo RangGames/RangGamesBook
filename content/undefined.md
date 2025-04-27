@@ -15,3 +15,25 @@
 
 
 순위에 오른 모두에게 <mark style="background-color:yellow;">등급 이름 뱃지</mark>를 지급합니다.
+
+### **시즌1 뱃지**
+
+채집 등급 뱃지
+
+<div><figure><img src="../.gitbook/assets/43.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/44.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/45.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/46.png" alt=""><figcaption></figcaption></figure></div>
+
+채광 등급 뱃지
+
+<div><figure><img src="../.gitbook/assets/47.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/48.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/49.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/50.png" alt=""><figcaption></figcaption></figure></div>
+
+벌목 등급 뱃지
+
+<div><figure><img src="../.gitbook/assets/39.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/40.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/41.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/42.png" alt=""><figcaption></figcaption></figure></div>
+
+낚시 등급 뱃지
+
+<div><figure><img src="../.gitbook/assets/35.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/36.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/37.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/38.png" alt=""><figcaption></figcaption></figure></div>
+
+농사  등급 뱃지
+
+<div><figure><img src="../.gitbook/assets/31 (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/32 (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/33 (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/34 (1).png" alt=""><figcaption></figcaption></figure></div>
