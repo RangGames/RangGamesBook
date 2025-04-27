@@ -35,7 +35,7 @@
 
 ## 이벤트 <a href="#event" id="event"></a>
 
-* [⏰ 핫타임](undefined-6/undefined.md)
+* [⏰ 버닝&핫타임](event/hottime.md)
 
 ## 후원 <a href="#donate" id="donate"></a>
 
