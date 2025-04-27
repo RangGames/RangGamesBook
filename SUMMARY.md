@@ -38,6 +38,4 @@
 
 ## 후원 <a href="#donate" id="donate"></a>
 
-* [✴️ 등급](donate/grade.md)
-* [🎁 혜택](donate/benefit.md)
-* [📬 문의](donate/inquiry.md)
+* [✴️ 후원](donate/donate.md)
