@@ -8,8 +8,8 @@
 
 1. 낚싯대를 던지고 기다리면 물고기가 미끼를 뭅니다.
 2. 물고기가 걸리면 화면에 낚시 바가 나타납니다.
-3. <mark style="background-color:blue;">WASD 키 중 하나</mark>를 반복해서 눌렀다 떼어, <mark style="background-color:blue;">움직이는 표시를 중앙의 녹색 영역에 유지</mark>시키세요.
-4. 표시가 <mark style="color:red;background-color:red;">양쪽 끝의 빨간색 영역</mark>에 닿으면 낚시에 실패합니다.
+3. <mark style="background-color:blue;">**WASD 키 중 하나**</mark>를 반복해서 눌렀다 떼어, <mark style="background-color:blue;">**움직이는 표시를 중앙의 녹색 영역에 유지**</mark>시키세요.
+4. 표시가 <mark style="color:red;background-color:red;">**양쪽 끝의 빨간색 영역**</mark>에 닿으면 낚시에 실패합니다.
 5. 성공적으로 녹색 영역에 표시를 유지하면 물고기를 낚아 올립니다.
 
 <div align="left"><figure><img src="../../.gitbook/assets/낚시.png" alt="낚시 미니게임 UI 예시"><figcaption><p>낚시 미니게임</p></figcaption></figure></div>
@@ -35,8 +35,8 @@
 
 **2. 크기 보너스**
 
-* **미니게임 성공 보너스 :** 미니게임 중 표시를 녹색 칸에 정확히 맞추면 크기 <mark style="background-color:blue;">+20cm \~ 50cm</mark> 증가
-* **미끼 사용 보너스 :** 낚시용 지렁이 미끼를 장착하고 낚시하면 크기 <mark style="background-color:blue;">+5cm \~ 15cm</mark> 증가
+* **미니게임 성공 보너스 :** 미니게임 중 표시를 녹색 칸에 정확히 맞추면 크기 <mark style="background-color:blue;">**+20cm \~ 50cm**</mark> 증가
+* **미끼 사용 보너스 :** 낚시용 지렁이 미끼를 장착하고 낚시하면 크기 <mark style="background-color:blue;">**+5cm \~ 15cm**</mark> 증가
 * **바다의 행운 인챈트 :**
   * 낚싯대에 부여된 '바다의 행운' 인챈트 레벨에 따라 크기가 추가로 증가합니다.
   * 증가량: `[1과 (2 * 인챈트 레벨) 사이의 랜덤 정수] * 인챈트 레벨` 만큼 cm 증가
@@ -65,7 +65,7 @@
 
 ### **낚시터 계절 및 날씨**
 
-낚시터에는 시간대에 따라 <mark style="background-color:blue;">여름과 겨울</mark> 계절이 적용되며, 다양한 날씨(<mark style="background-color:blue;">맑음, 비, 눈, 폭풍</mark>)가 나타납니다. 계절과 날씨는 낚이는 물고기 종류에 영향을 줍니다.
+낚시터에는 시간대에 따라 <mark style="background-color:blue;">**여름과 겨울**</mark> 계절이 적용되며, 다양한 날씨(<mark style="background-color:blue;">**맑음, 비, 눈, 폭풍**</mark>)가 나타납니다. 계절과 날씨는 낚이는 물고기 종류에 영향을 줍니다.
 
 **1. 시간대별 계절**
 
@@ -76,9 +76,9 @@
 
 **2. 날씨 발생**
 
-* **비/눈:** 약 <mark style="background-color:blue;">35% 확률</mark>로 발생합니다.
-* **폭풍:** <mark style="background-color:blue;">랜덤</mark>하게 발생합니다.
-* <mark style="color:red;background-color:red;">폭풍우가 몰아칠 때는 더 큰 물고기가 잡힐 확률이 높아집니다!</mark>
+* **비/눈:** 약 <mark style="background-color:blue;">**35% 확률**</mark>로 발생합니다.
+* **폭풍:** <mark style="background-color:blue;">**랜덤**</mark>하게 발생합니다.
+* <mark style="color:red;background-color:red;">**폭풍우가 몰아칠 때는 더 큰 물고기가 잡힐 확률이 높아집니다!**</mark>
 
 **3. 날씨별 출현 물고기**
 
