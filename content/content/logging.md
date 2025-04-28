@@ -30,8 +30,7 @@
 나무를 완전히 베면 기본적으로 다음 세 가지 종류의 아이템을 얻습니다.
 
 1. <mark style="background-color:orange;">**나무 원목 1개**</mark>
-2. <mark style="background-color:orange;">**나뭇잎 1개**</mark>
-3. <mark style="background-color:orange;">**아래 목록 중 벌목 아이템 1개**</mark>
+2. <mark style="background-color:orange;">**나뭇잎 또는 벌목 아이템 1개**</mark>
 
 
 
