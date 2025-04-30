@@ -12,4 +12,4 @@
 
 무역 알림은 뱃고동 소리와 함께 <mark style="background-color:orange;">**서버 채팅창에 알림**</mark>이 뜨고, <mark style="background-color:orange;">**디스코드 서버알림**</mark>에서 가장 높은 가격에 매입하는 4가지 요리를 알려드립니다.
 
-<figure><img src="../../../.gitbook/assets/ss.png" alt=""><figcaption><p>무역 시세 알림 예시</p></figcaption></figure>
+<div align="left"><figure><img src="../../../.gitbook/assets/ss.png" alt=""><figcaption><p>무역 시세 알림 예시</p></figcaption></figure></div>

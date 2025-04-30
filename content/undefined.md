@@ -1,39 +1,19 @@
-# 🏆 티어
+# 🪙 재화
 
-티어 정산은 <mark style="background-color:yellow;">**3개월마다 진행**</mark>합니다.\
-1, 4, 7, 10월 1일 00:00 \~ 00:10 <mark style="background-color:yellow;">**정산 시간을 10분**</mark> 소요됩니다.\
-<mark style="background-color:yellow;">**레벨이 초기화**</mark> 되며, 각 컨텐츠별 레벨 순위에 따라 <mark style="background-color:yellow;">**뱃지와 보상이 지**</mark>급됩니다.
+<div align="left"><figure><img src="../.gitbook/assets/z.png" alt=""><figcaption><p>랑</p></figcaption></figure> <figure><img src="../.gitbook/assets/c.png" alt=""><figcaption><p>타마</p></figcaption></figure> <figure><img src="../.gitbook/assets/x.png" alt=""><figcaption><p>캐시</p></figcaption></figure> <figure><img src="../.gitbook/assets/v.png" alt=""><figcaption><p>마일리지</p></figcaption></figure> <figure><img src="../.gitbook/assets/b.png" alt=""><figcaption><p>바닐라 경험치</p></figcaption></figure></div>
 
-### **보상**
+랑서버 재화는 **랑, 타마, 캐시, 마일리지**가 있습니다.
 
-* 1위 - **1,000타마 / 오오라**
-* 2\~5위 - **600타마**
-* 상위 10% - **300타마**
-* 상위 30% - **150타마**
-* 6레벨 이상 - **50타마**
-
-
-
-순위에 오른 모두에게 <mark style="background-color:yellow;">**등급 이름 뱃지**</mark>를 지급합니다.
-
-### **시즌1 뱃지**
-
-채집 등급 뱃지
-
-<div><figure><img src="../.gitbook/assets/43.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/44.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/45.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/46.png" alt=""><figcaption></figcaption></figure></div>
-
-채광 등급 뱃지
-
-<div><figure><img src="../.gitbook/assets/47.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/48.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/49.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/50.png" alt=""><figcaption></figcaption></figure></div>
-
-벌목 등급 뱃지
-
-<div><figure><img src="../.gitbook/assets/39.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/40.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/41.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/42.png" alt=""><figcaption></figcaption></figure></div>
-
-낚시 등급 뱃지
-
-<div><figure><img src="../.gitbook/assets/35.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/36.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/37.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/38.png" alt=""><figcaption></figcaption></figure></div>
-
-농사  등급 뱃지
-
-<div><figure><img src="../.gitbook/assets/31 (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/32 (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/33 (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/34 (1).png" alt=""><figcaption></figcaption></figure></div>
+* **랑**
+  * **게임 머니**입니다.
+  * '/돈 보내기 \[닉네임] \[금액]'으로 다른 **유저들과 거래**할 수 있습니다.
+* **타마**
+  * **매주 2번 랑과 캐으로 구매**할 수 있습니다.
+  * 캐시로 교환 가능하며, 타마 상점에서 다양한 아이템을 구매할 수 있습니다.
+* **캐시**
+  * 캐시로만 구매할 수 있는 아이템이 있습니다.
+  * 가끔 스폰에 캐시 코인이 떨어져 있습니다.
+* **마일리지**
+  * 잠수터에서 **1분당 1마일리지**를 얻을 수 있습니다.
+  * 스폰에 마일리지 코인이 떨어져 있습니다.
+  * 타마 상점 앞 교환 NPC에게 마일리지로 다양한 아이템을 교환할 수 있습니다.
