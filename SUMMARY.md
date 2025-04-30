@@ -10,7 +10,12 @@
 
 * [🗃️ 리소스팩](information/resourcepack.md)
 * [📬 문의](information/inquiry.md)
-* [📋 명령어](undefined/undefined.md)
+* [📋 명령어](information/undefined/README.md)
+  * [❤️ 기본 명령어](information/undefined/basics.md)
+  * [🧡 로비](information/undefined/undefined.md)
+  * [💛 팜](information/undefined/undefined-1.md)
+  * [💚 채집 월드](information/undefined/undefined-2.md)
+  * [💙 RPG](information/undefined/rpg.md)
 
 ## 컨텐츠 <a href="#content" id="content"></a>
 
