@@ -3,7 +3,7 @@
 강화 제작소에서 여러 도구를 인첸트할 수 있습니다.\
 기본 도구는 15강까지 인첸트 가능하며, 제련된 소달라이트로 도구 강화를 하면 20강까지 인첸트 가능합니다.
 
-<div align="left"><figure><img src=".gitbook/assets/6.png" alt=""><figcaption><p>인첸트 강화</p></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/6.png" alt=""><figcaption><p>인첸트 강화</p></figcaption></figure></div>
 
 ### **인첸트 방법**
 
@@ -56,7 +56,7 @@
 
 <mark style="background-color:blue;">**15단계 인첸트 도구를 제련된 소달라이트로 강화**</mark>하여 소달라이트 도구를 만들 수 있습니다.
 
-<div align="left"><figure><img src=".gitbook/assets/7.png" alt=""><figcaption><p>제련된 소달라이트 조합법</p></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/7.png" alt=""><figcaption><p>제련된 소달라이트 조합법</p></figcaption></figure></div>
 
 * <mark style="background-color:blue;">**15단계 도구와 제련된 소달라이트**</mark>를 가지고 도구강화 NPC 하나를 우클릭 한 후 도구를 올려 강화를 합니다.
 * <mark style="background-color:blue;">**강화 단계 (15) \* 5,000랑**</mark> 이 필요하며, <mark style="background-color:blue;">**성공 확률은 30%**</mark> 입니다.

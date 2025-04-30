@@ -17,6 +17,7 @@
 * [🪙 재화](content/undefined.md)
 * [🏯 로비](content/lobby.md)
 * [🏆 티어](content/undefined-1.md)
+* [💼 직업](content/job.md)
 * [🏝️ 팜](content/farm.md)
 * [🌟 컨텐츠](content/content/README.md)
   * [🌿 채집](content/content/collect.md)
@@ -27,12 +28,9 @@
   * [🫕 요리](content/content/cooking/README.md)
     * [🚢 무역](content/content/cooking/trade.md)
   * [🗡️ 사냥](content/content/hunt.md)
-
-***
-
-* [📖 인첸트](undefined-4.md)
-* [🎚️ 매직스톤](undefined-5.md)
-* [🛡️ RPG](rpg.md)
+* [📖 인첸트](content/undefined-4.md)
+* [🎚️ 매직스톤](content/undefined-5.md)
+* [🛡️ RPG](content/rpg.md)
 
 ## 이벤트 <a href="#event" id="event"></a>
 
