@@ -2,7 +2,7 @@
 
 티어 정산은 <mark style="background-color:yellow;">**3개월마다 진행**</mark>합니다.\
 1, 4, 7, 10월 1일 00:00 \~ 00:10 <mark style="background-color:yellow;">**정산 시간을 10분**</mark> 소요됩니다.\
-<mark style="background-color:yellow;">**레벨이 초기화**</mark> 되며, 각 컨텐츠별 레벨 순위에 따라 <mark style="background-color:yellow;">**뱃지와 보상이 지**</mark>급됩니다.
+<mark style="background-color:yellow;">**레벨이 초기화**</mark> 되며, 각 컨텐츠별 레벨 순위에 따라 <mark style="background-color:yellow;">**뱃지와 보상이 지급**</mark>됩니다.
 
 ### **보상**
 
